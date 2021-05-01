@@ -1,5 +1,11 @@
 # learning_resource_app
 
+
+## Live site
+
+https://learning-resource.netlify.app/
+
+
 ## Project setup
 ```
 npm install
